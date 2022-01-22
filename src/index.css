@@ -23,3 +23,24 @@ code {
   width: 0 !important;
   height: 15px !important;
 }
+
+.expertiseBlogDots {
+  display: flex !important;
+  justify-content: center;
+  list-style: none;
+  gap: 10px;
+  align-items: center;
+  margin-top: 20px;
+}
+.expertiseBlogDot {
+  height: 15px;
+  width: 15px;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 10px 1px #bfbfbf;
+  cursor: pointer;
+}
+
+.expertiseBlogDots .slick-active .expertiseBlogDot {
+  background: #3d4ca7;
+}

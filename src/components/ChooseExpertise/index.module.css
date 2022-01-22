@@ -1,0 +1,18 @@
+.main {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.sectionHeader {
+  text-align: left;
+  margin-bottom: 40px;
+}
+
+.sectionTitle {
+  color: #000000;
+}
+.sectionTitle span {
+  color: #3d4ca7;
+}
+.sectionSubTitle {
+  color: #51555d;
+}

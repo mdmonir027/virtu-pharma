@@ -1,0 +1,66 @@
+.main {
+  background: #fbfbfb;
+}
+.contentWrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-bottom: 1px solid #a9b2c3;
+  padding: 0 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+.secondInputBox {
+  border-left: 1px solid #a9b2c3;
+}
+.inputWrapper {
+  flex: 1;
+}
+.buttonGroup {
+  border-bottom: 1px solid #a9b2c3;
+  display: flex;
+  gap: 5px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+.button1,
+.button2 {
+  border: none;
+  outline: none;
+  padding: 7px 22px;
+  background: transparent;
+}
+.button1 {
+  opacity: 0.8;
+}
+.button2 {
+  background: #3d4ca7;
+  color: white;
+}
+
+.keywords {
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  gap: 10px;
+}
+.keyList {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  padding: 0;
+}
+.key {
+  background: #fff;
+  padding: 5px 15px;
+  border-radius: 20px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  font-size: 15px;
+}
+.deleteIcon {
+  color: #a9b2c3;
+  cursor: pointer;
+}
