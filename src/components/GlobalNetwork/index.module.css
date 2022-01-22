@@ -1,0 +1,37 @@
+.main {
+  padding: 50px 0;
+  min-height: 300px;
+}
+.sectionHeader {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.sectionTitle {
+  color: #fff;
+  font-size: 50px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+}
+.sectionSubTitle {
+  color: #51555d;
+}
+.button {
+  width: 180px;
+  background-color: #fff;
+  margin-top: 15px;
+  padding: 10px 0;
+  font-size: 18px;
+  border-radius: 4px;
+  text-align: center;
+  font-weight: bold;
+  color: #3d4ca7;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.images {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
