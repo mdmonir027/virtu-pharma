@@ -95,7 +95,7 @@ const items = [
 ];
 const Blogs = () => {
   return (
-    <div className={`choseExpertise__blog ${style.main}`}>
+    <div className={style.main}>
       <Slider {...settings}>
         {items.map((item) => (
           <Blog

@@ -3,6 +3,7 @@ import ChooseExpertise from '../../components/ChooseExpertise';
 import GlobalNetwork from '../../components/GlobalNetwork';
 import Header from '../../components/Header';
 import Hero from '../../components/Hero';
+import PoweringPartner from '../../components/PowerPartner';
 import WhatWeDo from '../../components/WhatWeDo';
 import WorkingLab from '../../components/WorkingLab';
 
@@ -16,6 +17,7 @@ const Home = () => {
         <GlobalNetwork />
         <WorkingLab />
         <ChooseExpertise />
+        <PoweringPartner />
       </div>
     </div>
   );
