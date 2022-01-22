@@ -3,6 +3,7 @@ import GlobalNetwork from '../../components/GlobalNetwork';
 import Header from '../../components/Header';
 import Hero from '../../components/Hero';
 import WhatWeDo from '../../components/WhatWeDo';
+import WorkingLab from '../../components/WorkingLab';
 
 const Home = () => {
   return (
@@ -12,6 +13,7 @@ const Home = () => {
         <Hero />
         <WhatWeDo />
         <GlobalNetwork />
+        <WorkingLab />
       </div>
     </div>
   );
