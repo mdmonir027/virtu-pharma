@@ -13,3 +13,13 @@ code {
 }
 
 /* global css */
+.slick-dots {
+  position: absolute;
+  bottom: -140px;
+}
+.slick-dots li button::before {
+  color: #fff !important;
+  transform: scale(2.8);
+  width: 0 !important;
+  height: 15px !important;
+}
