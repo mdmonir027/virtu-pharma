@@ -1,0 +1,41 @@
+.header * {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  position: absolute;
+  width: 100%;
+  background: #007afb;
+}
+
+.headerWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logoText {
+  font-size: 25px;
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+}
+
+.navList {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+
+  padding: 0;
+  margin: 0;
+}
+
+.navLink {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  transition: color 0.5s;
+}

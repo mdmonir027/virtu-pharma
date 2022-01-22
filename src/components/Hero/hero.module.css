@@ -1,0 +1,43 @@
+.main {
+  min-height: 100vh;
+  padding-top: 90px;
+}
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.subtitle {
+  text-transform: uppercase;
+  color: #0fadfb;
+  font-size: 22px;
+}
+.title {
+  color: #132b67;
+  font-size: 45px;
+  line-height: 60px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.titleText {
+  font-size: 17px;
+  color: #454d7b;
+  line-height: 25px;
+}
+.buttonGroup {
+  margin-top: 30px;
+}
+.button1 {
+  background: #007afb !important;
+}
+.button1:hover {
+  background: #007afbe0 !important;
+  border-color: #007afbe0 !important;
+}
+.button2 {
+  border-color: #007afb !important;
+}
+.button2:hover {
+  background: #007afb !important;
+}
