@@ -1,0 +1,19 @@
+.main {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.sectionHeader {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.sectionTitle {
+  color: #000000;
+  font-weight: bold;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.sectionText {
+  color: #363b44;
+  font-size: 15px;
+}

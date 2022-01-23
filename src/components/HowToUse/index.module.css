@@ -1,0 +1,52 @@
+.main {
+  padding-top: 190px;
+  padding-bottom: 90px;
+}
+.sectionHeader {
+}
+
+.sectionTitle {
+  color: #000;
+}
+.sectionSubTitle {
+  color: #42288b;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.steps {
+  margin-top: 80px;
+}
+.step {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.count {
+  background: #3d4ca7;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 20px;
+  box-shadow: 0 0 10px 0px #0007;
+}
+
+.title {
+  font-size: 22px;
+  margin: 0;
+  color: #323232;
+}
+.subtitle {
+  font-size: 14px;
+  margin: 0;
+  margin-bottom: 10px;
+  color: #323232;
+  font-weight: bold;
+}
+.text {
+  font-size: 15px;
+  color: #acb5c5;
+}

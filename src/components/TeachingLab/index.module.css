@@ -1,0 +1,38 @@
+.main {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.sectionHeader {
+  display: flex;
+  align-items: center;
+}
+
+.sectionTitle {
+  color: #fff;
+}
+.sectionSubTitle {
+  color: #fafafa;
+  font-weight: bold;
+}
+
+.imageWrapper {
+  flex: 1;
+  position: absolute;
+  right: 0;
+}
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.button {
+  background-color: #fff;
+  margin-top: 15px;
+  padding: 10px 30px;
+  font-size: 15px;
+  border-radius: 4px;
+  text-align: center;
+  font-weight: bold;
+  color: #000;
+  font-family: 'Josefin Sans', sans-serif;
+}
