@@ -6,6 +6,7 @@ import Hero from '../../components/Hero';
 import HowToUse from '../../components/HowToUse';
 import PoweringPartner from '../../components/PowerPartner';
 import ProvenExperts from '../../components/ProvenExpers';
+import StartWithUs from '../../components/StartWithUs';
 import TeachingLab from '../../components/TeachingLab';
 import WhatWeDo from '../../components/WhatWeDo';
 import WhyVirtuPharma from '../../components/Why';
@@ -26,6 +27,7 @@ const Home = () => {
         <WhyVirtuPharma />
         <TeachingLab />
         <HowToUse />
+        <StartWithUs />
       </div>
     </div>
   );

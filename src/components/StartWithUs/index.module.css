@@ -1,0 +1,37 @@
+.main {
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.content {
+  padding: 70px 0;
+  background: #3d4ca7;
+}
+.sectionHeader {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.sectionTitle {
+  color: #fff;
+  font-size: 50px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+}
+.sectionSubTitle {
+  color: #fff;
+  line-height: 29px;
+  margin-top: 10px;
+}
+
+.button {
+  background-color: #fff;
+  margin-top: 15px;
+  padding: 10px 30px;
+  font-size: 18px;
+  border-radius: 4px;
+  text-align: center;
+  font-weight: bold;
+  color: #000;
+  font-family: 'Josefin Sans', sans-serif;
+}
