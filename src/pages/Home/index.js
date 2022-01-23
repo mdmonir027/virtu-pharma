@@ -5,6 +5,7 @@ import Header from '../../components/Header';
 import Hero from '../../components/Hero';
 import HowGetInvolved from '../../components/HowGetInvolved';
 import HowToUse from '../../components/HowToUse';
+import LatestNews from '../../components/LatestNews';
 import PoweringPartner from '../../components/PowerPartner';
 import ProvenExperts from '../../components/ProvenExpers';
 import StartWithUs from '../../components/StartWithUs';
@@ -30,6 +31,7 @@ const Home = () => {
         <HowToUse />
         <StartWithUs />
         <HowGetInvolved />
+        <LatestNews />
       </div>
     </div>
   );
