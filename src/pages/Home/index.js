@@ -1,5 +1,6 @@
 import React from 'react';
 import ChooseExpertise from '../../components/ChooseExpertise';
+import ContactUs from '../../components/ContactUs';
 import GlobalNetwork from '../../components/GlobalNetwork';
 import Header from '../../components/Header';
 import Hero from '../../components/Hero';
@@ -32,6 +33,7 @@ const Home = () => {
         <StartWithUs />
         <HowGetInvolved />
         <LatestNews />
+        <ContactUs />
       </div>
     </div>
   );
