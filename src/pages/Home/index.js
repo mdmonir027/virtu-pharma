@@ -3,6 +3,7 @@ import ChooseExpertise from '../../components/ChooseExpertise';
 import GlobalNetwork from '../../components/GlobalNetwork';
 import Header from '../../components/Header';
 import Hero from '../../components/Hero';
+import HowGetInvolved from '../../components/HowGetInvolved';
 import HowToUse from '../../components/HowToUse';
 import PoweringPartner from '../../components/PowerPartner';
 import ProvenExperts from '../../components/ProvenExpers';
@@ -28,6 +29,7 @@ const Home = () => {
         <TeachingLab />
         <HowToUse />
         <StartWithUs />
+        <HowGetInvolved />
       </div>
     </div>
   );
